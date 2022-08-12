@@ -14,7 +14,7 @@ body{
 header .header1{
     height: 60px;
     padding: 0 8px;
-    background-color:rgb(156, 74, 223);
+    background-color:rgb(74, 101, 223);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -50,7 +50,7 @@ header nav ul li {
     margin: 15px;
 }
 header nav ul li a{
-    color: rgb(156, 74, 223);
+    color: rgb(74, 101, 223);
     text-decoration-line: none;
     font-weight: bold;
     border:1px solid rgb(156, 74, 223);
@@ -118,7 +118,7 @@ header .header1 .access .icon i{
     color: white;
     margin: 2px;
     padding: 2px;
-    background-color:rgb(156, 74, 223);
+    background-color:rgb(74, 101, 223);
     border-radius: 5px;
 }
 
@@ -270,7 +270,7 @@ header .header1 .access .icon i{
     flex-wrap: wrap;
     align-items: center;
     padding: 4px;
-    background-color: rgba(196, 13, 141, 0.795);
+    background-color: rgba(13, 123, 196, 0.795);
 }
 
 .category {
@@ -298,7 +298,7 @@ header .header1 .access .icon i{
 /* *******************/
 
 footer{
-    background-color: blueviolet;
+    background-color: rgb(74, 101, 223);
     text-align: center;
 }
 
